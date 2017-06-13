@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="31335b98130b7200cb92b7a66144b0b0" sys_domain="global" table="x_ahho_biz_dev_referral" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>tlWeyer</sys_created_by>
+            <sys_created_on>2017-05-26 19:12:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>b5335b98130b7200cb92b7a66144b0b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_ahho_biz_dev_referral" name="x_ahho_biz_dev_referral" sys_domain="global" view="Default view">31335b98130b7200cb92b7a66144b0b0</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_ahho_biz_dev_referral" sys_domain="global" view="Default view">7102db18130b7200cb92b7a66144b055</sys_ui_section>
+            <sys_updated_by>tlWeyer</sys_updated_by>
+            <sys_updated_on>2017-05-26 19:12:21</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>tlWeyer</sys_created_by>
+            <sys_created_on>2017-05-26 19:12:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>39335b98130b7200cb92b7a66144b0b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_ahho_biz_dev_referral" name="x_ahho_biz_dev_referral" sys_domain="global" view="Default view">31335b98130b7200cb92b7a66144b0b0</sys_ui_form>
+            <sys_ui_section caption="Activity" display_value="Activity" name="x_ahho_biz_dev_referral" sys_domain="global" view="Default view">b9335b98130b7200cb92b7a66144b0af</sys_ui_section>
+            <sys_updated_by>tlWeyer</sys_updated_by>
+            <sys_updated_on>2017-05-26 19:12:21</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_ahho_biz_dev_referral</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>tlWeyer</sys_created_by>
+            <sys_created_on>2017-05-26 19:12:21</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>31335b98130b7200cb92b7a66144b0b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_ahho_biz_dev_referral</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Business Development" source="x_ahho_biz_dev">79854b90130b7200cb92b7a66144b0fc</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Business Development">79854b90130b7200cb92b7a66144b0fc</sys_scope>
+            <sys_update_name>sys_ui_form_sections_31335b98130b7200cb92b7a66144b0b0</sys_update_name>
+            <sys_updated_by>tlWeyer</sys_updated_by>
+            <sys_updated_on>2017-05-26 19:12:21</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

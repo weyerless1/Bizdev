@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="customer_contract_value" label="Customer contract value" language="en" table="x_ahho_biz_dev_referral">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>customer_contract_value</element>
+            <help/>
+            <hint/>
+            <label>Customer contract value</label>
+            <language>en</language>
+            <name>x_ahho_biz_dev_referral</name>
+            <plural>Customer contract values</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>tlWeyer</sys_created_by>
+            <sys_created_on>2017-05-26 18:46:13</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>073d47d4130b7200cb92b7a66144b0f3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Customer contract value</sys_name>
+            <sys_package display_value="Business Development" source="x_ahho_biz_dev">79854b90130b7200cb92b7a66144b0fc</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Business Development">79854b90130b7200cb92b7a66144b0fc</sys_scope>
+            <sys_update_name>sys_documentation_x_ahho_biz_dev_referral_customer_contract_value_en</sys_update_name>
+            <sys_updated_by>tlWeyer</sys_updated_by>
+            <sys_updated_on>2017-05-26 18:46:13</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

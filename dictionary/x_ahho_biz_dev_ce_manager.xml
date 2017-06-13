@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_user" label="CE Manager" max_length="40" name="x_ahho_biz_dev_ce_manager" type="collection"/>
+</database>

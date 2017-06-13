@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="d1935b58130b7200cb92b7a66144b0fd" sys_domain="global" table="x_ahho_biz_dev_ce_manager" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>0</position>
+            <sys_created_by>tlWeyer</sys_created_by>
+            <sys_created_on>2017-05-26 19:19:26</sys_created_on>
+            <sys_id>e5d49fd8130b7200cb92b7a66144b064</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ahho_biz_dev_ce_manager" sys_domain="global" view="Default view">d1935b58130b7200cb92b7a66144b0fd</sys_ui_section>
+            <sys_updated_by>tlWeyer</sys_updated_by>
+            <sys_updated_on>2017-05-26 19:19:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>title</element>
+            <position>1</position>
+            <sys_created_by>tlWeyer</sys_created_by>
+            <sys_created_on>2017-05-26 19:19:26</sys_created_on>
+            <sys_id>69d49fd8130b7200cb92b7a66144b064</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ahho_biz_dev_ce_manager" sys_domain="global" view="Default view">d1935b58130b7200cb92b7a66144b0fd</sys_ui_section>
+            <sys_updated_by>tlWeyer</sys_updated_by>
+            <sys_updated_on>2017-05-26 19:19:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>phone</element>
+            <position>2</position>
+            <sys_created_by>tlWeyer</sys_created_by>
+            <sys_created_on>2017-05-26 19:19:26</sys_created_on>
+            <sys_id>e9d49fd8130b7200cb92b7a66144b064</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ahho_biz_dev_ce_manager" sys_domain="global" view="Default view">d1935b58130b7200cb92b7a66144b0fd</sys_ui_section>
+            <sys_updated_by>tlWeyer</sys_updated_by>
+            <sys_updated_on>2017-05-26 19:19:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>email</element>
+            <position>3</position>
+            <sys_created_by>tlWeyer</sys_created_by>
+            <sys_created_on>2017-05-26 19:19:26</sys_created_on>
+            <sys_id>6dd49fd8130b7200cb92b7a66144b064</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ahho_biz_dev_ce_manager" sys_domain="global" view="Default view">d1935b58130b7200cb92b7a66144b0fd</sys_ui_section>
+            <sys_updated_by>tlWeyer</sys_updated_by>
+            <sys_updated_on>2017-05-26 19:19:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>tlWeyer</sys_created_by>
+            <sys_created_on>2017-05-26 19:19:26</sys_created_on>
+            <sys_id>edd49fd8130b7200cb92b7a66144b064</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ahho_biz_dev_ce_manager" sys_domain="global" view="Default view">d1935b58130b7200cb92b7a66144b0fd</sys_ui_section>
+            <sys_updated_by>tlWeyer</sys_updated_by>
+            <sys_updated_on>2017-05-26 19:19:26</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>street</element>
+            <position>5</position>
+            <sys_created_by>tlWeyer</sys_created_by>
+            <sys_created_on>2017-05-26 19:19:26</sys_created_on>
+            <sys_id>61d49fd8130b7200cb92b7a66144b065</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ahho_biz_dev_ce_manager" sys_domain="global" view="Default view">d1935b58130b7200cb92b7a66144b0fd</sys_ui_section>
+            <sys_updated_by>tlWeyer</sys_updated_by>
+            <sys_updated_on>2017-05-26 19:19:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>city</element>
+            <position>6</position>
+            <sys_created_by>tlWeyer</sys_created_by>
+            <sys_created_on>2017-05-26 19:19:26</sys_created_on>
+            <sys_id>e1d49fd8130b7200cb92b7a66144b065</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ahho_biz_dev_ce_manager" sys_domain="global" view="Default view">d1935b58130b7200cb92b7a66144b0fd</sys_ui_section>
+            <sys_updated_by>tlWeyer</sys_updated_by>
+            <sys_updated_on>2017-05-26 19:19:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>7</position>
+            <sys_created_by>tlWeyer</sys_created_by>
+            <sys_created_on>2017-05-26 19:19:26</sys_created_on>
+            <sys_id>65d49fd8130b7200cb92b7a66144b065</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ahho_biz_dev_ce_manager" sys_domain="global" view="Default view">d1935b58130b7200cb92b7a66144b0fd</sys_ui_section>
+            <sys_updated_by>tlWeyer</sys_updated_by>
+            <sys_updated_on>2017-05-26 19:19:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>zip</element>
+            <position>8</position>
+            <sys_created_by>tlWeyer</sys_created_by>
+            <sys_created_on>2017-05-26 19:19:26</sys_created_on>
+            <sys_id>e5d49fd8130b7200cb92b7a66144b065</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ahho_biz_dev_ce_manager" sys_domain="global" view="Default view">d1935b58130b7200cb92b7a66144b0fd</sys_ui_section>
+            <sys_updated_by>tlWeyer</sys_updated_by>
+            <sys_updated_on>2017-05-26 19:19:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_ahho_biz_dev_ce_manager</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>tlWeyer</sys_created_by>
+            <sys_created_on>2017-05-26 19:13:57</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>d1935b58130b7200cb92b7a66144b0fd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_ahho_biz_dev_ce_manager</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Business Development" source="x_ahho_biz_dev">79854b90130b7200cb92b7a66144b0fc</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Business Development">79854b90130b7200cb92b7a66144b0fc</sys_scope>
+            <sys_update_name>sys_ui_section_d1935b58130b7200cb92b7a66144b0fd</sys_update_name>
+            <sys_updated_by>tlWeyer</sys_updated_by>
+            <sys_updated_on>2017-05-26 19:13:57</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_producer">
+    <sc_cat_item_producer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <availability>on_both</availability>
+        <billable>false</billable>
+        <can_cancel>false</can_cancel>
+        <category display_value="LeadShare">b87032e9138bf200cb92b7a66144b008</category>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan/>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description><![CDATA[<p>See details on the <a title="Customer Referral program" href="https://snap.trimedx.com/sites/tmx/SitePages/LeadShare.aspx" target="_blank">Customer Referral program</a>.</p>]]></description>
+        <entitlement_script/>
+        <group/>
+        <icon/>
+        <ignore_price>false</ignore_price>
+        <image/>
+        <list_price>0</list_price>
+        <location/>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>Customer referral</name>
+        <no_cart>false</no_cart>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_search>false</no_search>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <picture/>
+        <preview>JavaScript: popupOpenStandard("./com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=0d234fe9138bf200cb92b7a66144b078&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <recurring_frequency/>
+        <recurring_price>0</recurring_price>
+        <roles/>
+        <sc_catalogs>738f2aa9138bf200cb92b7a66144b0b4</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <script><![CDATA[// Create the CE direct manager
+var ce_direct = new GlideRecord('x_ahho_biz_dev_ce_manager');
+ce_direct.initialize();
+ce_direct.name   = producer.u_direct_name;
+ce_direct.title  = producer.u_direct_title;
+ce_direct.phone  = producer.u_direct_phone;
+ce_direct.email  = producer.u_direct_email;
+ce_direct.street = producer.u_direct_street;
+ce_direct.city   = producer.u_direct_city;
+ce_direct.state  = producer.u_direct_state;
+ce_direct.zip    = producer.u_direct_zip;
+
+ce_direct.insert();
+current.ce_manager = ce_direct.getUniqueValue();
+
+// Create the CE ultimate manager
+var ce_ultimate = new GlideRecord('x_ahho_biz_dev_ce_manager');
+ce_ultimate.initialize();
+ce_ultimate.name   = producer.u_ultimate_name;
+ce_ultimate.title  = producer.u_ultimate_title;
+ce_ultimate.phone  = producer.u_ultimate_phone;
+ce_ultimate.email  = producer.u_ultimate_email;
+ce_ultimate.street = producer.u_ultimate_street;
+ce_ultimate.city   = producer.u_ultimate_city;
+ce_ultimate.state  = producer.u_ultimate_state;
+ce_ultimate.zip    = producer.u_ultimate_zip;
+
+ce_ultimate.insert();
+current.ce_executive_manager = ce_ultimate.getUniqueValue();
+
+producer.redirect = "businessdev?id=sc_category&sys_id=b87032e9138bf200cb92b7a66144b008";]]></script>
+        <short_description>Submit a customer referral.</short_description>
+        <start_closed>false</start_closed>
+        <sys_class_name>sc_cat_item_producer</sys_class_name>
+        <sys_created_by>tlWeyer</sys_created_by>
+        <sys_created_on>2017-05-30 15:14:31</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>0d234fe9138bf200cb92b7a66144b078</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Customer referral</sys_name>
+        <sys_package display_value="Business Development" source="x_ahho_biz_dev">79854b90130b7200cb92b7a66144b0fc</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Business Development">79854b90130b7200cb92b7a66144b0fc</sys_scope>
+        <sys_update_name>sc_cat_item_producer_0d234fe9138bf200cb92b7a66144b078</sys_update_name>
+        <sys_updated_by>tlWeyer</sys_updated_by>
+        <sys_updated_on>2017-06-01 17:29:30</sys_updated_on>
+        <table_name>x_ahho_biz_dev_referral</table_name>
+        <template/>
+        <type>item</type>
+        <u_software_ci/>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <view/>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item_producer>
+    <sys_translated_text action="delete_multiple" query="documentkey=0d234fe9138bf200cb92b7a66144b078"/>
+    <fx_price action="delete_multiple" query="id=0d234fe9138bf200cb92b7a66144b078"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price</field>
+        <id>0d234fe9138bf200cb92b7a66144b078</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>tlWeyer</sys_created_by>
+        <sys_created_on>2017-05-30 15:14:31</sys_created_on>
+        <sys_id>c5234fe113cbf200cb92b7a66144b01a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>tlWeyer</sys_updated_by>
+        <sys_updated_on>2017-05-30 15:14:31</sys_updated_on>
+        <table>sc_cat_item_producer</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>recurring_price</field>
+        <id>0d234fe9138bf200cb92b7a66144b078</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>tlWeyer</sys_created_by>
+        <sys_created_on>2017-05-30 15:14:31</sys_created_on>
+        <sys_id>c9234fe113cbf200cb92b7a66144b01a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>tlWeyer</sys_updated_by>
+        <sys_updated_on>2017-05-30 15:14:31</sys_updated_on>
+        <table>sc_cat_item_producer</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <encryption_context/>
+        <file_name>picture</file_name>
+        <image_height/>
+        <image_width/>
+        <size_bytes>3006</size_bytes>
+        <size_compressed>2752</size_compressed>
+        <sys_created_by>tlWeyer</sys_created_by>
+        <sys_created_on>2017-06-01 17:22:38</sys_created_on>
+        <sys_id>c9a3f5d213c33600d80074c66144b02a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>tlWeyer</sys_updated_by>
+        <sys_updated_on>2017-06-01 17:22:38</sys_updated_on>
+        <table_name>ZZ_YYsc_cat_item_producer</table_name>
+        <table_sys_id>0d234fe9138bf200cb92b7a66144b078</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="picture" sys_id="c9a3f5d213c33600d80074c66144b02a">c9a3f5d213c33600d80074c66144b02a</sys_attachment>
+        <sys_created_by>tlWeyer</sys_created_by>
+        <sys_created_on>2017-06-01 17:22:38</sys_created_on>
+        <sys_id>0da3f5d213c33600d80074c66144b02a</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>3656</length>
+        <position>1</position>
+        <sys_attachment display_value="picture" sys_id="c9a3f5d213c33600d80074c66144b02a">c9a3f5d213c33600d80074c66144b02a</sys_attachment>
+        <sys_created_by>tlWeyer</sys_created_by>
+        <sys_created_on>2017-06-01 17:22:38</sys_created_on>
+        <sys_id>8da3f5d213c33600d80074c66144b02a</sys_id>
+    </sys_attachment_doc>
+</record_update>

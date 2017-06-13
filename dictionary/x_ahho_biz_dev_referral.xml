@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="task" label="Referral" max_length="40" name="x_ahho_biz_dev_referral" sizeclass="3" type="collection">
+        <element label="CE executive manager" max_length="32" name="ce_executive_manager" reference="x_ahho_biz_dev_ce_manager" type="reference"/>
+        <element label="CE manager" max_length="32" name="ce_manager" reference="x_ahho_biz_dev_ce_manager" type="reference"/>
+        <element label="Modality biomed" max_length="1000" name="ce_modality_bimed" type="string"/>
+        <element label="Modality laboratory" max_length="1000" name="ce_modality_laboratory" type="string"/>
+        <element label="Modality radiology" max_length="1000" name="ce_modality_radiology" type="string"/>
+        <element label="CE outsourced" max_length="40" name="ce_outsourced" type="boolean"/>
+        <element label="Customer contract" max_length="40" name="customer_contract" type="boolean"/>
+        <element label="Customer contract value" max_length="40" name="customer_contract_value" type="currency"/>
+        <element label="System affiliation" max_length="255" name="facility_affiliation" type="string"/>
+        <element label="Number of beds" max_length="40" name="facility_beds" type="integer"/>
+        <element label="Facility location" max_length="255" name="facility_location" type="string"/>
+        <element label="Facility name" max_length="255" name="facility_name" type="string"/>
+        <element label="Additional comments" max_length="4000" name="referral_comments" type="string"/>
+        <element choice="1" label="Referral rating" max_length="40" name="referral_rating" type="choice">
+            <choice>
+                <element label="1 - Cold" sequence="10" value="1"/>
+                <element label="2 - Cold" sequence="20" value="2"/>
+                <element label="3 - Cold" sequence="30" value="3"/>
+                <element label="4 - Warm" sequence="40" value="4"/>
+                <element label="5 - Warm" sequence="50" value="5"/>
+                <element label="6 - Warm" sequence="60" value="6"/>
+                <element label="7 - Warm" sequence="70" value="7"/>
+                <element label="8 - Hot" sequence="80" value="8"/>
+                <element label="9 - Hot" sequence="90" value="9"/>
+                <element label="10 - Hot" sequence="100" value="10"/>
+            </choice>
+        </element>
+        <element label="Referrer at facility" max_length="40" name="referrer_at_facility" type="boolean"/>
+        <element label="Referrer help facilitate" max_length="40" name="referrer_help_facilitate" type="boolean"/>
+        <element label="Relationship to referrer" max_length="100" name="referrer_relationship" type="string"/>
+        <element label="Submitter help facilitate" max_length="40" name="submitter_help_facilitate" type="boolean"/>
+    </element>
+</database>
