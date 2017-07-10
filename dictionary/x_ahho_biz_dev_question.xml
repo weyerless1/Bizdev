@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element audit="true" extends="task" label="Question" max_length="40" name="x_ahho_biz_dev_question" sizeclass="3" type="collection">
+    <element audit="true" extends="task" label="Question" max_length="40" name="x_ahho_biz_dev_question" sizeclass="2" type="collection">
         <element choice="1" label="Topic" max_length="40" name="topic" type="choice">
             <choice>
                 <element label="LeadShare" sequence="100" value="1"/>

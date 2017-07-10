@@ -19,7 +19,7 @@
         <sys_class_name>sp_portal</sys_class_name>
         <sys_created_by>tlWeyer</sys_created_by>
         <sys_created_on>2017-05-30 19:17:46</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>3faabbed130ff200cb92b7a66144b05b</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Business Development</sys_name>

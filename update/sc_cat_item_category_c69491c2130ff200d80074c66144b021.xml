@@ -6,7 +6,7 @@
         <sys_class_name>sc_cat_item_category</sys_class_name>
         <sys_created_by>tlWeyer</sys_created_by>
         <sys_created_on>2017-05-31 20:28:29</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>c69491c2130ff200d80074c66144b021</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>LeadShare.Questions</sys_name>

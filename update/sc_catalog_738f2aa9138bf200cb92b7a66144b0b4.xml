@@ -12,7 +12,7 @@
         <sys_class_name>sc_catalog</sys_class_name>
         <sys_created_by>tlWeyer</sys_created_by>
         <sys_created_on>2017-05-30 13:49:23</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>738f2aa9138bf200cb92b7a66144b0b4</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Business Development</sys_name>

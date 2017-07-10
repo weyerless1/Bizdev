@@ -18,7 +18,7 @@
         <sys_class_name>sp_page</sys_class_name>
         <sys_created_by>tlWeyer</sys_created_by>
         <sys_created_on>2017-05-30 19:26:36</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>e1bc33e1134ff200cb92b7a66144b0fc</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>businessdev</sys_name>

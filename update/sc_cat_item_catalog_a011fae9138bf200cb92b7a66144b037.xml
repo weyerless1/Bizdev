@@ -6,7 +6,7 @@
         <sys_class_name>sc_cat_item_catalog</sys_class_name>
         <sys_created_by>tlWeyer</sys_created_by>
         <sys_created_on>2017-05-30 13:55:35</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>a011fae9138bf200cb92b7a66144b037</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Business Development.Questions</sys_name>

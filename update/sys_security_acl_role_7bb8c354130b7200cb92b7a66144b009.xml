@@ -4,7 +4,7 @@
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>tlWeyer</sys_created_by>
         <sys_created_on>2017-05-26 18:26:36</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>7bb8c354130b7200cb92b7a66144b009</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_ahho_biz_dev_referral.x_ahho_biz_dev.user</sys_name>

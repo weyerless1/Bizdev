@@ -57,7 +57,7 @@
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>tlWeyer</sys_created_by>
         <sys_created_on>2017-05-30 15:14:32</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>19234fe113cbf200cb92b7a66144b023</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Modality biomed</sys_name>

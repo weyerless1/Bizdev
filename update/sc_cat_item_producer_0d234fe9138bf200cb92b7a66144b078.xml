@@ -17,7 +17,7 @@
         <icon/>
         <ignore_price>false</ignore_price>
         <image/>
-        <list_price>0</list_price>
+        <list_price>0.00</list_price>
         <location/>
         <meta/>
         <mobile_hide_price>false</mobile_hide_price>
@@ -79,7 +79,7 @@ producer.redirect = "businessdev?id=sc_category&sys_id=b87032e9138bf200cb92b7a66
         <sys_class_name>sc_cat_item_producer</sys_class_name>
         <sys_created_by>tlWeyer</sys_created_by>
         <sys_created_on>2017-05-30 15:14:31</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>0d234fe9138bf200cb92b7a66144b078</sys_id>
         <sys_mod_count>7</sys_mod_count>
         <sys_name>Customer referral</sys_name>

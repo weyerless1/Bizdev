@@ -8,7 +8,7 @@
         <sys_class_name>question_choice</sys_class_name>
         <sys_created_by>tlWeyer</sys_created_by>
         <sys_created_on>2017-06-01 14:07:24</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>25d6c55e13433600d80074c66144b004</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>6 - Warm</sys_name>

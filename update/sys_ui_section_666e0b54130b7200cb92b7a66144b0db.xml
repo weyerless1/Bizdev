@@ -177,7 +177,7 @@
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>tlWeyer</sys_created_by>
             <sys_created_on>2017-05-26 18:51:23</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_id>666e0b54130b7200cb92b7a66144b0db</sys_id>
             <sys_mod_count>0</sys_mod_count>
