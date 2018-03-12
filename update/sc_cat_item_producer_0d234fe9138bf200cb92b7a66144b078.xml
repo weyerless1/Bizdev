@@ -75,6 +75,7 @@ current.ce_executive_manager = ce_ultimate.getUniqueValue();
 
 producer.redirect = "businessdev?id=sc_category&sys_id=b87032e9138bf200cb92b7a66144b008";]]></script>
         <short_description>Submit a customer referral.</short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
         <start_closed>false</start_closed>
         <sys_class_name>sc_cat_item_producer</sys_class_name>
         <sys_created_by>tlWeyer</sys_created_by>

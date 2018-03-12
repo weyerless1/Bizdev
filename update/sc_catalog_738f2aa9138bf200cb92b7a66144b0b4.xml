@@ -8,6 +8,7 @@
         <desktop_home_page/>
         <desktop_image/>
         <editors/>
+        <enable_wish_list>false</enable_wish_list>
         <manager/>
         <sys_class_name>sc_catalog</sys_class_name>
         <sys_created_by>tlWeyer</sys_created_by>

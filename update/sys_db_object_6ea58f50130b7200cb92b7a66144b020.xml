@@ -22,7 +22,7 @@
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>tlWeyer</sys_created_by>
         <sys_created_on>2017-05-26 18:15:04</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>6ea58f50130b7200cb92b7a66144b020</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>Question</sys_name>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element audit="true" extends="task" label="Referral" max_length="40" name="x_ahho_biz_dev_referral" type="collection">
+    <element audit="true" extends="task" label="Referral" max_length="40" name="x_ahho_biz_dev_referral" sizeclass="5" type="collection">
         <element label="CE executive manager" max_length="32" name="ce_executive_manager" reference="x_ahho_biz_dev_ce_manager" type="reference"/>
         <element label="CE manager" max_length="32" name="ce_manager" reference="x_ahho_biz_dev_ce_manager" type="reference"/>
         <element label="Modality biomed" max_length="1000" name="ce_modality_bimed" type="string"/>

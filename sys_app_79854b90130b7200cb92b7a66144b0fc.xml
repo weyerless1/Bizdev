@@ -5,31 +5,32 @@
         <enforce_license>log</enforce_license>
         <js_level>helsinki_es5</js_level>
         <licensable>true</licensable>
+        <license_model>none</license_model>
         <logo/>
-        <menu display_value="Business Development">f5858f90130b7200cb92b7a66144b016</menu>
+        <menu/>
         <name>Business Development</name>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
-        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <runtime_access_tracking/>
         <scope>x_ahho_biz_dev</scope>
         <scoped_administration>false</scoped_administration>
         <short_description/>
         <source>x_ahho_biz_dev</source>
-        <store_correlation_id>REPOAPP0000027571</store_correlation_id>
+        <store_correlation_id/>
         <store_url/>
         <sys_class_name>sys_app</sys_class_name>
         <sys_code/>
-        <sys_created_by>tlWeyer</sys_created_by>
-        <sys_created_on>2017-05-26 18:12:33</sys_created_on>
+        <sys_created_by>tdAdams</sys_created_by>
+        <sys_created_on>2017-06-16 13:25:18</sys_created_on>
         <sys_id>79854b90130b7200cb92b7a66144b0fc</sys_id>
-        <sys_mod_count>6</sys_mod_count>
-        <sys_updated_by>tlWeyer</sys_updated_by>
-        <sys_updated_on>2017-07-10 18:55:25</sys_updated_on>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_updated_by>tlweyer</sys_updated_by>
+        <sys_updated_on>2018-03-12 19:17:50</sys_updated_on>
         <template/>
         <trackable>true</trackable>
-        <user_role display_value="x_ahho_biz_dev.user" name="x_ahho_biz_dev.user">b1858f90130b7200cb92b7a66144b017</user_role>
+        <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>1.0.3</version>
+        <version>1.0.4</version>
     </sys_app>
 </record_update>
